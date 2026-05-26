@@ -17,7 +17,7 @@ A modern online bookstore homepage designed to improve book discovery, highlight
 
 A modern e-commerce homepage inspired by Amazon, designed with a clean UI, product-focused layout, and user-friendly shopping experience.
 
-🌐 Live Demo: https://nirajdev147.github.io/Project-SastoKinmel/
+🌐 Live Demo: https://project-sasto-kinmel.vercel.app/
 
 ---
 
